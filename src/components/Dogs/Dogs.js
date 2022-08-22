@@ -1,6 +1,5 @@
 import { Button } from 'antd';
 import { useNavigate } from 'react-router-dom';
-import dogs from '../../APIs/dogs';
 import BodyDogsPage from './BodyDogsPage';
 
 const Dogs = () => {
